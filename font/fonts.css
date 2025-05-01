@@ -1,0 +1,15 @@
+/* greek-ext */
+
+@font-face {
+    font-family: "Farmhouse";
+    font-style: normal;
+    font-weight: normal;
+    src: url(Farmhouse.otf);
+}
+
+@font-face {
+    font-family: "GlitterySnowfall";
+    font-style: normal;
+    font-weight: normal;
+    src: url(Glittery-Snowfall.ttf);
+}
