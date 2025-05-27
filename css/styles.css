@@ -3,7 +3,7 @@
     * Name: Donal Farm
     * Version: 1.0.2 (Update 24/02/2025)
     * Author: Themesflat
-    * Author URI: http://themesflat.com 
+    * Author URI: http://themesflat.com
 
 	* Abstracts variable
 
@@ -6818,7 +6818,7 @@ table th {
   border-radius: 50%;
 }
 .blog-single .content .opinion-list {
-  margin-bottom: 38px;
+  /* margin-bottom: 38px; */
 }
 .blog-single .content .opinion-list li:not(:last-child) {
   margin-bottom: 6px;
@@ -12054,7 +12054,7 @@ i.fs-12 {
 .s-about-us .main-section .content-left .image {
   border-radius: 20px;
   overflow: hidden;
-  max-height: 378px;
+  max-height: 425px;
   height: 100%;
 }
 .s-about-us .main-section .content-right {
@@ -14445,7 +14445,7 @@ i.fs-12 {
   overflow: hidden;
   border-radius: 50%;
   margin-left: auto;
-  max-width: 568px;
+  max-width: 468px;
   width: 100%;
 }
 .s-other-commitment .image-wrap .image {
