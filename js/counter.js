@@ -49,8 +49,8 @@ if ($(".counter-scroll-3").length > 0) {
     $(window).on("scroll", function () {
         if (isElementInViewport($(".odometer.style-5"))) {
             setTimeout(function () {
-                $(".odometer.style-5").html(1386);
-                $(".odometer.style-5-2").html(12980);
+                $(".odometer.style-5").html(1380);
+                $(".odometer.style-5-2").html(1290);
             }, 0);
         }
     });

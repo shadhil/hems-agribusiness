@@ -13304,7 +13304,7 @@ i.fs-12 {
 .s-our-agriculture.style-2 {
   background-color: var(--Primary);
   position: relative;
-  padding-bottom: 250px;
+  /* padding-bottom: 250px; */
   padding-top: 44px;
   z-index: 1;
 }
@@ -14664,6 +14664,10 @@ i.fs-12 {
 
 .hidden {
   display: none;
+}
+
+.invisible {
+  visibility: hidden;
 }
 
 .grid-portfolio.item {
